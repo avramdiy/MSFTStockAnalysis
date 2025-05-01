@@ -14,7 +14,9 @@
 
 ### 3rd Commit
 
-- 
+- Generate a plot chart through a new route to show the monthly aggregate low price for all rows dated for the year of 2017. Make the Y-axis represent the price, and the X-axis for the months. Use the columns "Low" & "Date". Make the plotted line solid green.
+
+- Add another line to the same chart and route, but showing the moonthly aggregate high price for the year of 2017. Use the "High" attribute and make the line solid red.
 
 ### 4th Commit
 
