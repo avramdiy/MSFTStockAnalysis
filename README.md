@@ -10,7 +10,7 @@
 
 ### 2nd Commit
 
-- 
+- Clean data by dropping the "OpenInt" column. and drop all rows dated before January 1st, 2000.
 
 ### 3rd Commit
 
