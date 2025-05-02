@@ -32,4 +32,6 @@
 
 ### 5th Commit
 
-- 
+- Using the High and Low prices for 2007 & 2017, generate a third route which shows a predicted monthly median price for the year of 2027.
+
+- The visual plots a very negative downtrend. This is biased, the price movement is based on 2 years of numerical data with no other influence. Maybe calculating price movement in sets of 5 years will yield better results.
