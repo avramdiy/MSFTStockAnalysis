@@ -20,7 +20,15 @@
 
 ### 4th Commit
 
-- 
+- To the same chart as before, add the monthly aggregate line plots for the High and Low prices of the year 2007. While keeping the original /plot code the same, make the 2007 "Low" attribute line dashed green, and the 2007 "High" attribute line dashed red.
+
+- The code is correct, but I want all four lines oriented along the same 12 months on the X-axis.
+
+- There is an error in the data. It is showing all years between 2007 and 2017. I want to load only the rows dated for the years 2007 and 2017.
+
+- Data Error Fixed.
+
+- Created two routes /plot_2017 & /plot_2007 to fix the issue and visualize the proces more effectively.
 
 ### 5th Commit
 
